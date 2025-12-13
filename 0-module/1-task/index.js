@@ -1,3 +1,4 @@
-function sum(m, n) {
-  // ваш код...
-}
+"use strict";
+function sum(a, b) {
+  return a + b;
+};
