@@ -1,3 +1,3 @@
 function checkSpam(str) {
-  // ваш код...
+  return typeof str === 'string' && /1xbet|xxx/i.test(str);
 }
